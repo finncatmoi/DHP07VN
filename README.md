@@ -1,6 +1,6 @@
 <!-- README profile cho DHP07VN / Phước 07. Sao chép nội dung này vào README.md của repo hồ sơ GitHub (tên repo trùng username) để hiển thị trên trang profile. -->
 
-<h1 align="center">⚡ DHP07VN — Phước 07</h1>
+<h1 align="center">⚡ DHP07VN</h1>
 <p align="center">
   Automation • KeyShop • PyQt6 • Tailwind • PHP/MySQL
   <br/>
