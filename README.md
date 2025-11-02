@@ -1,15 +1,15 @@
 <!-- README profile cho DHP07VN / Phước 07. Sao chép nội dung này vào README.md của repo hồ sơ GitHub (tên repo trùng username) để hiển thị trên trang profile. -->
 
-<h1 align="center">⚡ DHP07VN</h1>
+<h1 align="center">⚡ DHP07VN ⚡</h1>
 <p align="center">
-  Automation • KeyShop • PyQt6 • Tailwind • PHP/MySQL
+  PHP • PYTHONL
   <br/>
   <em>Build better tools — fast, clean, secure.</em>
 </p>
 
 <p align="center">
   <!-- Thay YOUR_USERNAME bằng username GitHub của bạn -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0ea5e9&style=flat" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=finncatmoi&label=Profile%20views&color=0ea5e9&style=flat" alt="views"/>
   <img src="https://img.shields.io/badge/Made_in-Viet_Nam-ee1c25?logo=liberapay&labelColor=0b1020" alt="vn"/>
   <img src="https://img.shields.io/badge/Focus-Automation_/_PyQt6_/_Tailwind-0ea5e9" alt="focus"/>
 </p>
