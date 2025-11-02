@@ -88,9 +88,9 @@ Mình là **Đàm Hữu Phước** — người đứng sau hệ sinh thái **DH
 
 ## 📬 Liên hệ
 
-* 🌐 Website: <a href="[[https://your-domain.example](https://dhphuoc.click/)](https://dhphuoc.click/)">[dhphuoc.click]</a>
+* 🌐 Website: <a href="https://dhphuoc.click">dhphuoc.click</a>
 * ✉️ Email: <a href="mailto:dhphuoc21.xyz@gmail.com">[dhphuoc21.xyz@gmail.com](mailto:dhphuoc21.xyz@gmail.com)</a>
-* 💬 Zalo: <a href="[https://zalo.me/yourid](https://zalo.me/g/ljifxp255)">DHP07VN</a>
+* 💬 Zalo: <a href="https://zalo.me/g/ljifxp255">Box Zalo</a>
 ---
 
 <sub>© DHP07VN — 2025. All rights reserved.</sub>
