@@ -42,8 +42,6 @@ Mình là **Đàm Hữu Phước (Phước 07)** — người đứng sau hệ s
 * **KeyShop** — bán key theo thiết bị + ví xu, QR top‑up, quản trị orders, email/Telegram thông báo.
 * **Server Manager** — API status, bảo trì, ban/whitelist IP, page trạng thái cho người dùng.
 
-> *Cần link demo? Thay `href="#"` bằng URL repo hoặc site của bạn.*
-
 ---
 
 ## 🧩 Tech Stack
@@ -88,10 +86,8 @@ Mình là **Đàm Hữu Phước (Phước 07)** — người đứng sau hệ s
 
 ## 📈 Hoạt động GitHub
 
-> Thay `YOUR_USERNAME` = username GitHub của bạn để hiển thị thống kê.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=finncatmoi&show_icons=true&theme=radical" height="150"/>
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" height="150"/>
 </p>
 
@@ -99,7 +95,7 @@ Mình là **Đàm Hữu Phước (Phước 07)** — người đứng sau hệ s
 
 ## 📬 Liên hệ
 
-* 🌐 Website: <a href="https://your-domain.example">your-domain.example</a>
+* 🌐 Website: <a href="[https://your-domain.example](https://dhphuoc.click/)">[your-domain.example](dhphuoc.click/)</a>
 * ✉️ Email: <a href="mailto:you@example.com">[you@example.com](mailto:you@example.com)</a>
 * 💬 Telegram: <a href="https://t.me/yourchannel">@yourchannel</a> · Zalo: <a href="https://zalo.me/yourid">zalo.me/yourid</a>
 
